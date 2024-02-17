@@ -23,6 +23,9 @@ php artisan key:generate
 php artisan serve
 ```
 
+**Preview dashboard**
+![dashboard](image.png)
+
 ### next implements??
 - [x] Login / Logout  
 - [x] Register
