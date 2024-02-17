@@ -37,3 +37,30 @@ Route::get('/typography', function () {
     return view('pages.ui-features.typography.index');
 });
 
+Route::get('/chart', function () {
+    return view('pages.chart.index');
+});
+
+Route::get('/table', function () {
+    return view('pages.table.index');
+});
+
+Route::get('/icons', function () {
+    return view('pages.icons.index');
+});
+
+Route::get('/login', function () {
+    return view('pages.user-pages.login.index');
+});
+
+Route::get('/register', function () {
+    return view('pages.user-pages.register.index');
+});
+
+Route::get('/erro404', function () {
+    return view('pages.error-pages.404.index');
+});
+
+Route::get('/erro500', function () {
+    return view('pages.error-pages.500.index');
+});
