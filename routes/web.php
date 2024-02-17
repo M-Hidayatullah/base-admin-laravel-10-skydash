@@ -21,3 +21,7 @@ Route::get('/dashboard', function () {
     return view('dashboard.index');
 });
 
+Route::get('/forms', function () {
+    return view('pages.forms.index');
+});
+
