@@ -30,6 +30,11 @@ php artisan serve
 - [x] Login / Logout  
 - [x] Register
 
+# 📬 Punya saran, ide, atau pertanyaan?
+
+Kirimkan dengan [membuka issue baru](https://github.com/M-Hidayatullah/base-admin-laravel-10-skydash/issues/new)
+
+#
 ### Trakteer Coffe, Untuk mendukung developers dalam pengembangan:
 <p align="center">
 <br>
