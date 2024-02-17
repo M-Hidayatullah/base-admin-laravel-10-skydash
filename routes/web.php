@@ -25,3 +25,15 @@ Route::get('/forms', function () {
     return view('pages.forms.index');
 });
 
+Route::get('/buttons', function () {
+    return view('pages.ui-features.buttons.index');
+});
+
+Route::get('/dropdowns', function () {
+    return view('pages.ui-features.dropdowns.index');
+});
+
+Route::get('/typography', function () {
+    return view('pages.ui-features.typography.index');
+});
+
