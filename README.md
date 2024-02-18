@@ -26,11 +26,7 @@ php artisan serve
 **Preview dashboard**
 ![dashboard](image.png)
 
-### next implements??
-- [x] Login / Logout  
-- [x] Register
-
-# 📬 Punya saran, ide, atau pertanyaan?
+# Punya saran, ide, atau pertanyaan?
 
 Kirimkan dengan [membuka issue baru](https://github.com/M-Hidayatullah/base-admin-laravel-10-skydash/issues/new)
 
